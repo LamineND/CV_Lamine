@@ -142,7 +142,8 @@
     git add .
     git commit -m "Premier commit"
     git remote add origin https://github.com/BasseND/CV_Lamine.git  // Lien github
-    git push --set-upstream origin master
+    git push --set-upstream origin master // Pour un premier commit seulement
+    git push // Pour tous les autres commits
 
     */
 
